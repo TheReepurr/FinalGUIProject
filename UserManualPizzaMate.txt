@@ -1,0 +1,21 @@
+# User Manual for PizzaMate Application
+# Introduction
+# PizzaMate is a simple GUI application built using Python’s tkinter library. It allows users to order pizza with their choice of type, toppings, and quantity.
+
+# How to Use
+
+1. Welcome Screen: When you start the application, you will see a welcome screen with a ‘Start Order’ button. Click on this button to start your order.
+
+2. Pizza Selection Screen: You will be presented with a list of pizza types to choose from. Select your preferred pizza type and click ‘Next’.
+
+3. Toppings Selection Screen: Next, you will see a list of available toppings. You can select multiple toppings according to your preference. After selecting the toppings, click ‘Next’.
+
+4. Quantity Selection Screen: Here, you can select the quantity of the pizza you want to order. You can increase or decrease the quantity using the provided spinbox. After selecting the quantity, click ‘Next’.
+
+5. Order Summary Screen: This screen will show you a summary of your order including the pizza type, selected toppings, and quantity.
+
+6. Checkout Screen: Enter your delivery details in the provided entry box.
+
+7. Payment Method Screen: Select your preferred payment method from the available options.
+
+8. Place Order: After verifying all the details, click on ‘Place Order’ to place your order.
